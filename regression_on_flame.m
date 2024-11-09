@@ -32,3 +32,5 @@ xlabel('Time');
 ylabel('Flame Tip Average');
 title('Scatter Plot of Time vs Flame Tip Average');
 grid on;
+
+% Hi
